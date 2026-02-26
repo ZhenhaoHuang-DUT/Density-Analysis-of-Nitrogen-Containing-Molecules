@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: smiles2mol
+Version: 0.1.0
+Summary: RDKit-based library to parse SMILES and generate 3D conformers
+Author-email: HaoMeflorbis <1215648053@qq.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rdkit-pypi>=2023.9.1
+Requires-Dist: numpy>=1.25
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
+Dynamic: license-file

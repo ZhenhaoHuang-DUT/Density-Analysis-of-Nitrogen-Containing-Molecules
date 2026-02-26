@@ -1,0 +1,10 @@
+torch
+torch-geometric
+torch-scatter
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+rdkit
