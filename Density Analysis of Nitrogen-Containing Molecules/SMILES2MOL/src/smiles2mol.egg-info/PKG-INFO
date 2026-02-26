@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: smiles2mol
+Version: 0.1.0
+Summary: SMILES to RDKit Mol with 3D conformer generation
+Author-email: Your Name <your_email@example.com>
+License-Expression: MIT
+Requires-Python: <3.14,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: rdkit-pypi; sys_platform != "win32"
