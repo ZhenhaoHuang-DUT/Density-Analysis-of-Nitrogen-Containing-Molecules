@@ -1,7 +1,0 @@
-rdkit-pypi>=2023.9.1
-numpy>=1.25
-
-[dev]
-pytest>=7.0
-black
-mypy
