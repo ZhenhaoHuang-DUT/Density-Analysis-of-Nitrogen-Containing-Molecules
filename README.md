@@ -1,12 +1,3 @@
----
-
-```markdown
-# Molecular Density Prediction Using ALIGNN
-
-Predicting molecular and crystal density from structural information using an Atomistic Line Graph Neural Network (ALIGNN).
-
----
-
 ## Overview
 
 This project implements a full pipeline for molecular and crystal density prediction using graph neural networks. The workflow covers:
@@ -332,5 +323,6 @@ This project was developed as a university-level coursework project in:
 Zhenhao Huang
 
 ---
+
 
 
